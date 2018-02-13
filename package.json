@@ -2,10 +2,9 @@
   "name": "shadrag-book",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
-    "node-telegram-bot-api": "^0.30.0",
-    "express": "^4.13.3"
+    "telegraf": "^3.17.8"
   },
   "devDependencies": {},
   "scripts": {
